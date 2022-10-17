@@ -9,3 +9,10 @@ Create a virtual environment
 
 Source it
 ```source ~./demo-multi-cloud-continuous-integration-github-actions-/bin/activate```
+
+Clone
+```git clone git@github.com:VM-137/demo-multi-cloud-continuous-integration-github-actions-.git```
+
+Make install
+```make install```
+
