@@ -1,4 +1,4 @@
-name: AWS Python 3.7 application test with Github Actions
+name: AWS Python 3.7.10 
 on: [push]
 jobs:
   build:
