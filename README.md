@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/VM-137/demo-multi-cloud-continuous-integration-github-actions-/actions/workflows/main.yml/badge.svg)](https://github.com/VM-137/demo-multi-cloud-continuous-integration-github-actions-/actions/workflows/main.yml)
+
 # demo-multi-cloud-continuous-integration-github-actions-
 Using Github Actions to perform tests on many clouds using AWS, Azure and GCP 
 
