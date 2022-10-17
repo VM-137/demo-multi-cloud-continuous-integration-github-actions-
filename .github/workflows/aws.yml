@@ -1,4 +1,4 @@
-name: Python application test with Github Actions
+name: AWS Python 3.7 application test with Github Actions
 on: [push]
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
         python-version: 3.7
     - name: Install dependencies
       run: |
-        make install
+        make install-aws
     - name: Lint
       run: |
         make lint
